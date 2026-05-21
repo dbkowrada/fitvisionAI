@@ -1,2 +1,2 @@
 # fitvisionAI
-project created to learn
+project created to learn and test
